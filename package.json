@@ -1,0 +1,9 @@
+{
+  "name": "task-mapper",
+  "version": "1.0.0",
+  "description": "Задача: из объекта users сделать массив users, где каждый объект имеет следующую структуру",
+  "main": "mapper.js",
+  "type": "module",
+  "author": "tensenrey",
+  "license": "ISC"
+}
